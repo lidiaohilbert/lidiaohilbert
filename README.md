@@ -1,5 +1,7 @@
 <h1>Oii!! Eu me chamo Lidia e estou realizando o curso de Desenvolvimento de Sistemas (SENAI)</h1>
-<img src=<img width="1200" height="400" alt="image" src="https://github.com/user-attachments/assets/01b27b8e-7dfe-4337-87b9-e617afbda662" />
+<img src="<img width="1200" height="400" alt="image" src="https://github.com/user-attachments/assets/0a7a437c-fe5c-4afb-95c1-a38c9819923b" />
+
+
 
 <p>Aqui está algumas curiosidades sobre mim 😸</p>
 <ul>
